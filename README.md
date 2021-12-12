@@ -1,1 +1,1 @@
-# HackerRankCT1
+# HackerRank
